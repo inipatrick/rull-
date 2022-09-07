@@ -13,7 +13,7 @@ global.youtube = 'https://youtube.com/c/FadilsMC'
 global.ownername = 'Fadils'
 global.botname ='Monena-Botz'
 global.donasi = {
-    saweria: 'https://saweria.co/fadilsmc',
+    saweria: 'https://saweria.co/MonenaPS,
     nomor: '081364218561'
 }
 global.packname = 'Monena-Botz'
